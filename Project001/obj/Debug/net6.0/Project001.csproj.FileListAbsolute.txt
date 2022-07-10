@@ -1,0 +1,15 @@
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/bin/Debug/net6.0/Project001
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/bin/Debug/net6.0/Project001.deps.json
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/bin/Debug/net6.0/Project001.runtimeconfig.json
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/bin/Debug/net6.0/Project001.dll
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/bin/Debug/net6.0/Project001.pdb
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/obj/Debug/net6.0/Project001.csproj.AssemblyReference.cache
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/obj/Debug/net6.0/Project001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/obj/Debug/net6.0/Project001.AssemblyInfoInputs.cache
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/obj/Debug/net6.0/Project001.AssemblyInfo.cs
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/obj/Debug/net6.0/Project001.csproj.CoreCompileInputs.cache
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/obj/Debug/net6.0/Project001.dll
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/obj/Debug/net6.0/refint/Project001.dll
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/obj/Debug/net6.0/Project001.pdb
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/obj/Debug/net6.0/Project001.genruntimeconfig.cache
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project001/obj/Debug/net6.0/ref/Project001.dll
