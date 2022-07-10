@@ -1,0 +1,5 @@
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project002/obj/Debug/net6.0/Project002.csproj.AssemblyReference.cache
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project002/obj/Debug/net6.0/Project002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project002/obj/Debug/net6.0/Project002.AssemblyInfoInputs.cache
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project002/obj/Debug/net6.0/Project002.AssemblyInfo.cs
+/Users/vadimbayramov/Desktop/C#Семинар_1/ Examples/Project002/obj/Debug/net6.0/Project002.csproj.CoreCompileInputs.cache
